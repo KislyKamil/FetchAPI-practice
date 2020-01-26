@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "title": "example1",
+      "name": "example",
+      "id": 1
+    },
+    {
+      "title": "someTitle",
+      "name": "someName",
+      "id": 4
+    },
+    {
+      "title": "kam",
+      "name": "kis",
+      "id": 5
+    },
+    {
+      "title": "Some",
+      "name": "tea",
+      "id": 6
+    },
+    {
+      "title": "Kamil",
+      "name": "Kisly",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

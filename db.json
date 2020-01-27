@@ -1,29 +1,19 @@
 {
   "posts": [
     {
+      "id": 1,
       "title": "example1",
-      "name": "example",
-      "id": 1
+      "name": "example"
     },
     {
-      "title": "someTitle",
-      "name": "someName",
-      "id": 4
-    },
-    {
+      "id": 5,
       "title": "kam",
-      "name": "kis",
-      "id": 5
+      "name": "kis"
     },
     {
-      "title": "Some",
-      "name": "tea",
-      "id": 6
-    },
-    {
+      "id": 7,
       "title": "Kamil",
-      "name": "Kisly",
-      "id": 7
+      "name": "Kisly"
     }
   ],
   "comments": [

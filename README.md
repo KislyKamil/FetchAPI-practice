@@ -16,10 +16,11 @@ ________________________________________________________________________________
  
  - JavaScript + jQuery
  - Node.js
+ - JSON database located in **db.json** file
  
  ________________________________________________________________________________________________________________________________
  
   ## **How to launch**
   
-  Use `node server.js` command inside folder with project, then just open **index.html**. Database is located in db.json
+  Use `node server.js` command inside folder with project, then just open **index.html**.
   

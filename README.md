@@ -1,5 +1,5 @@
 # FetchAPI-practice
-I've done some async tasks with JavaScript, JSON database and build with Node.js 
+I've done some async tasks with JavaScript, JSON database and built with Node.js 
 
 ________________________________________________________________________________________________________________________________
  
